@@ -1,12 +1,9 @@
-# Template repository for .NET projects
+# AWS Configuration options exploration project
 
-## Included features
+[![.NET Build](https://github.com/mrnustik/AwsConfiguration/actions/workflows/dotnet.yml/badge.svg)](https://github.com/mrnustik/AwsConfiguration/actions/workflows/dotnet.yml)
 
-- Markdown linter for README.md
-- .NET Core build in Github Actions
+## Projects list
 
-## Usage checklist
+- `AwsConfiguration.AppConfig` - project that is using AWS AppConfig service for configuration
+- `AwsConfiguration.Parameters` - project that is using AWS ParameterStore for configuration
 
-- [ ] Rename sln file
-- [ ] Add status badges for build pipeline
-- [ ] Rewrite README
