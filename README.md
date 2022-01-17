@@ -25,9 +25,9 @@ Configuration profile values:
 
 ## Expected settings in AWS Parameter Store
 
- - `Development/MyKey/BooleanOption`
- - `Development/MyKey/IntegerOption`
- - `Development/MyKey/SomeStringOption`
- - `Production/MyKey/BooleanOption`
- - `Production/MyKey/IntegerOption`
- - `Production/MyKey/SomeStringOption`
+- `Development/MyKey/BooleanOption`
+- `Development/MyKey/IntegerOption`
+- `Development/MyKey/SomeStringOption`
+- `Production/MyKey/BooleanOption`
+- `Production/MyKey/IntegerOption`
+- `Production/MyKey/SomeStringOption`
