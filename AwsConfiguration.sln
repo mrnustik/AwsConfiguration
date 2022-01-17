@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Github Actions", "Github Ac
 		.github\workflows\markdown-lint.yml = .github\workflows\markdown-lint.yml
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsConfiguration.AppConfig", "AwsConfiguration.AppConfig\AwsConfiguration.AppConfig.csproj", "{38FF05B2-8BF7-4C8F-A1D4-BA8C73A44BEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,11 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BE920CFA-9506-4729-8B92-A1186B11748A} = {009681DA-0339-437D-BA42-98459ABFE1C4}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38FF05B2-8BF7-4C8F-A1D4-BA8C73A44BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FF05B2-8BF7-4C8F-A1D4-BA8C73A44BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FF05B2-8BF7-4C8F-A1D4-BA8C73A44BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FF05B2-8BF7-4C8F-A1D4-BA8C73A44BEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
