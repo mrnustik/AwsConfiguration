@@ -6,4 +6,3 @@
 
 - `AwsConfiguration.AppConfig` - project that is using AWS AppConfig service for configuration
 - `AwsConfiguration.Parameters` - project that is using AWS ParameterStore for configuration
-
